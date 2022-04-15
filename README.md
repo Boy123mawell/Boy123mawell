@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Boy123mawell or you can just call me Maxwell.
 - 👀 I’m interested in computer programming, web hosting, web design and cybersecurity.
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning computer programming, which is python, html, css and etc.
 
 <!---
 Boy123mawell/Boy123mawell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
